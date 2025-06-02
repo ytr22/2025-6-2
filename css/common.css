@@ -60,7 +60,7 @@ img {
 }
 
 .site-menu ul li a {
-    font-family: 'Cherry Bomb One', cursive;
+    font-family: "Potta One", system-ui;
 }
 
 @media (max-width: 800px) {
